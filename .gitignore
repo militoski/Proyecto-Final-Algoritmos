@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+copia_inventario.txt
+copia_clientes.txt
+copia_pedidos.txt
+clientes.txt
